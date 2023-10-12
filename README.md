@@ -17,5 +17,12 @@
 </h1>
 </div>
 
+### :woman_technologist: About Me :
+I am a Frontend Developer. I live in Portugal now.
+- :computer: I like to create new and useful applications for people
+- :zap: I like learning new technologies 
+- :weight_lifting_woman: In my free time, I like to do strength training.
+- :heavy_heart_exclamation: I have a full collection of Sims games
+---
 
 
