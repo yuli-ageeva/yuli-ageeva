@@ -24,7 +24,6 @@ I am a Frontend Developer. I live in Portugal now.
 - :weight_lifting_woman: In my free time, I like to do strength training
 - :heavy_heart_exclamation: I have a full collection of Sims games
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
