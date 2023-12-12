@@ -17,14 +17,14 @@
 </h1>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Frontend Developer. I live in Portugal now.
 - :computer: I like to create new and useful applications for people
 - :zap: I like learning new technologies 
 - :weight_lifting_woman: In my free time, I like to do strength training
 - :heavy_heart_exclamation: I have a full collection of Sims games
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
